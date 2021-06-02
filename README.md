@@ -16,3 +16,33 @@
 * https://css-tricks.com/complete-guide-table-element/
 * https://www.w3schools.com/html/html_form_elements.asp
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+
+# Form elements to be familiar with
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea
+
+
+# CSS intro
+* [Must read](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
+* https://www.w3schools.com/Css/css_intro.asp
+* https://www.w3schools.com/Css/css_syntax.asp
+* https://www.w3schools.com/Css/css_selectors.asp
+* https://www.w3schools.com/Css/css_howto.asp
+* https://www.w3schools.com/Css/css_comments.asp
+* https://www.w3schools.com/Css/css_colors.asp
+* https://www.w3schools.com/cssref/css_colors_legal.asp
+
+# Homework
+Task 1             |  Task 2
+:-------------------------:|:-------------------------:
+![](https://wpbtips.files.wordpress.com/2013/04/greentable.png?w=419)  |  ![](https://i.pinimg.com/originals/8a/53/b1/8a53b1884d1c13393fe8f5ca19a27452.png)
